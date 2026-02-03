@@ -3,17 +3,20 @@
     {
       "title": "Kinopub",
       "type": "link",
-      "url": "https://cdnservices.link"
+      "url": "https://cdnservices.link",
+      "external": true
     },
     {
       "title": "GetsTV",
       "type": "link",
-      "url": "https://ig.getstv.ru"
+      "url": "https://ig.getstv.ru",
+      "external": true
     },
     {
       "title": "LAMPA",
       "type": "link",
-      "url": "https://lampa.mx"
+      "url": "https://lampa.mx",
+      "external": true
     }
   ]
 }
