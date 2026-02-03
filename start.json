@@ -1,16 +1,19 @@
 {
-  "items": [
+  "main": [
     {
       "title": "Kinopub",
-      "link": "https://cdnservices.link"
+      "type": "link",
+      "url": "https://cdnservices.link"
     },
     {
-      "title": "GetSTV",
-      "link": "https://ig.getstv.ru"
+      "title": "GetsTV",
+      "type": "link",
+      "url": "https://ig.getstv.ru"
     },
     {
       "title": "LAMPA",
-      "link": "https://lampa.mx"
+      "type": "link",
+      "url": "https://lampa.mx"
     }
   ]
 }
